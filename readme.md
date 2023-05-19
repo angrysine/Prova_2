@@ -20,4 +20,5 @@ usamos uma pilha para armazenar os dados de ida e após usarmos cada ponto botam
 
 O código do robô foi feito em python3 e utiliza a biblioteca rclpy do ros2 para criar um nodo que controla o robô. O código do robô cria uma fila e insere nela os pontos de navegação que o robô deve percorrer. O robô percorre os pontos de navegação que estão na pilha e quando chega no último ponto, ele volta para o primeiro ponto usando a pilha. 
 
-
+## 4. imagem
+[https://github.com/angrysine/Prova_2/blob/master/imagem.png]
