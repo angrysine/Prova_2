@@ -1,0 +1,3 @@
+[console_scripts]
+draw = prova.programa:main
+
